@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt" >
+  <head>
+    <title>Meus Jogos</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="bdiv">
+      <h1>Estilo de jogos que eu gosto:</h1>
+      <p class="p1">A maioria dos jogos que eu jogo são de estratégia, furtivo ou mmorpg.<br>
+      Eu gosto muito de achar um jeito brilhante de passar por um obstáculo sem ser visto
+      pelos oponentes e chegar a recompensa do final.<br>
+      </p>
+    </div>
+    <div class="adiv bdiv">
+      <h1>Meus jogos preferidos:</h1>
+      <ol>
+        <li><a href="http://escapistgame.com/" target="_blank">The Escapists</a>
+        <img class="cdiv img" src="asd.jpg" alt="The Escapists">
+        <p class="ddiv p2">The escapists é um jogo onde você é um prisioneiro e tem que inventar
+        um jeito de escapar da prisão podendo cavar um buraco, fugir de barco,
+        sair disfarçado como um guarda etc.</p></li>
+        <li><a href="https://br.leagueoflegends.com/pt/" target="_blank">League of Legends</a>
+        <img class="cdiv img" src="das.jpg" alt="League Of Legends">
+        <p class="ddiv p2">League of Legends é um jogo mmorpg onde você tem como objetivo junto com 4 aliados
+        destruir torres, barreiras e outros inimigos para aniquilar a base inimiga. </p></li>
+        <li><a href="https://www.epicgames.com/fortnite/pt-BR/buy-now/battle-royale?sessionInvalidated=true" target="_blank">Fortnite</a>
+        <img class="cdiv img"src="ads.jpg" alt="Fortnite">
+        <p class="ddiv p2">Fortnite é um jogo battle royale onde você cai em uma ilha com 100
+        oponentes e tem que se armar e pegar recursos para destruir os inimigos e ser o único
+        vivo na ilha.</p></li>
+        <li><a href="https://smartlydressedgames.com/#contact" target="_blank">Unturned</a>
+        <img class="cdiv img" src="dsa.jpg" alt="Unturned">
+        <p class="ddiv p2">Unturned é um jogo pós apocalíptico
+        onde tem zumbis e outros humanos e você tem que recolher recursos, construir
+        sua base e matar seus inimigos para sobreviver.</p></li>
+        <li><a href="https://www.sniperelite4.com/pt-br" target="_blank">Sniper Elite 4</a>
+        <img class="cdiv img" src="Sniper.jpg" alt="Sniper Elite 4">
+        <p class="ddiv p2">Sniper Elite 4 é um jogo furtivo onde você tem várias missões
+        para acabar com os inimigos usando o máximo do seu reflexo
+        para acertar os tiros precisamente e sem ser visto.</p></li>
+        <li><a href="http://kingdomsandcastles.com/" target="_blank">Kingdoms and Castles</a>
+        <img class="cdiv img" src="king.jpg" alt="Kingdoms and Castles">
+        <p class="ddiv p2">Kingdoms and Castles é um jogo onde você constrói seu vilarejo
+        em volta do castelo do rei e tem que se defender de ataques de vikings e dragões,
+        enquanto não pode deixar de oferecer recursos basicos aos moradores... é um jogo
+        realmente difícil.</p></li>
+        <li><a href="https://www.destinythegame.com/br/pt/home" target="_blank">Destiny 2</a>
+        <img class="cdiv img" src="dest.jpg" alt="Destiny 2">
+        <p class="ddiv p2">Destiny 2 é um jogo de mundo aberto onde você pode tanto jogar online
+        quanto sozinho no modo campanha e ganhar armas poderosas e atributos para deixar
+        seu personagem mais forte.</p></li>
+      </ol>
+    </div>
+
+    <div class="adiv bdiv">
+
+    <br>
+      <br>
+      <br>
+      <h1>Outros jogos que já joguei:</h1>
+      <ol>
+        <li><a href="https://www.greenheartgames.com/app/game-dev-tycoon/" target="_blank">Game Dev Tycoon</a>
+        <img class="cdiv img" src="gam.jpg" alt="Game Dev Tycoon">
+        <p class="ddiv p2">Game Dev Tycoon é um jogo onde você monta uma empresa,
+        contrata funcionários e "cria" jogos, esses jogos
+        são avaliados e criticados podendo ganhar ou perder dinheiro.</p></li>
+        <li><a href="https://gmod.facepunch.com/" target="_blank">Garry's Mod</a>
+        <img class="cdiv img" src="gar.jpg" alt="Garry's Mod">
+        <p class="ddiv p2">Garry's mod é um jogo sandbox onde você pode jogar online
+        em servidores que podem ter minigames muito interessantes como "Prop Hunt",
+        "Murder", "Trouble in Terrorist Town" entre outros. </p></li>
+        <li><a href="http://www.thinkwithportals.com/" target="_blank">Portal 2</a>
+        <img class="cdiv img" src="por.jpg" alt="Portal 2">
+        <p class="ddiv p2">Portal 2 é um jogo que usa bem sua capacidade de percepção,
+        pois você precisa pensar em muitas maneiras de passar de fase, pode ser pelo teto,
+        pelo chão ou pela parede, usando portais e botões espalhados pelo mapa.</p></li>
+        <li><a href="https://www.tibia.com/news/?subtopic=latestnews" target="_blank">Tibia</a>
+        <img class="cdiv img" src="tibia.jpg" alt="Tibia">
+        <p class="ddiv p2">Tibia é um jogo RPG onde você mata monstros, coleta itens,
+        mata outros jogadores, mata chefões com seus amigos, evolui de nível e deixa
+        seu personagem forte.</p></li>
+        <li><a href="https://www.rockstargames.com/games/info/V" target="_blank">GTA V</a>
+        <img class="cdiv img" src="gta.jpg" alt="GTA 5">
+        <p class="ddiv p2">GTA V é um jogo de mundo aberto com infinitas possibilidades
+        de coisas para você fazer além da campanha do jogo e também tem servidores
+        com minigames em <a href="https://www.rockstargames.com/GTAOnline" target="_blank">GTA online</a>.</p></li>
+        <li><a href="https://www.paladins.com/" target="_blank">Paladins</a>
+        <img class="cdiv img" src="pal.jpeg" alt="Paladins">
+        <p class="ddiv p2">Paladins é um jogo de tiro onde você e seus aliados lutam contra
+        seus inimigos em varios modos de jogo, captura de objetivo, empurrar o carrinho até certo ponto
+        , mata mata em equipe etc.</p></li>
+      </ol>
+    </div>
+</html>
